@@ -2,6 +2,14 @@
 A Direct Automotive  Transmitter &amp; Receiver 
 ![Image Description](https://media.discordapp.net/attachments/982855421779922944/1202847593596588102/20240201_211715_0000.png?ex=65cef21e&is=65bc7d1e&hm=8e75eebafcacad831f2dac70565d1097668af7c3a3587268707fa4fc216fc584&)
 
+
+<h1 align="center"><a href="https://stoic.tebex.io/package/6112490">Click this to download for FREE!</a></h1>
+<h1 align="center"><a href="https://www.youtube.com/">Youtube Preview! [SOON]</a></h1>
+
+---------------------------
+
+
+
 The D.A.R.T Dart Device is a sophisticated tool designed to provide driver assistance and vehicle tracking functionalities for emergency vehicles. It allows users to mark and track nearby vehicles, significantly enhancing their ability to respond to emergencies effectively.
 
 #### Features
@@ -23,5 +31,6 @@ To utilize the D.A.R.T Dart Device, equip it in an emergency vehicle and activat
 To remove the tracking device from a vehicle, use the Angle Grinder item. The Angle Grinder effectively removes the tracker, disabling its functionality. The Angle Grinding process includes an animation and a skill check to ensure successful removal.
 
 
-
+<h1 align="center"><a href="https://stoic.tebex.io/package/6112490">Click this to download for FREE!</a></h1>
+<h1 align="center"><a href="https://www.youtube.com/">Youtube Preview! [SOON]</a></h1>
 
