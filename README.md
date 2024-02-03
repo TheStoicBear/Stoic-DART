@@ -2,8 +2,6 @@
 A Direct Automotive  Transmitter &amp; Receiver 
 ![Image Description](https://media.discordapp.net/attachments/982855421779922944/1202847593596588102/20240201_211715_0000.png?ex=65cef21e&is=65bc7d1e&hm=8e75eebafcacad831f2dac70565d1097668af7c3a3587268707fa4fc216fc584&)
 
-
-<h1 align="center"><a href="https://stoic.tebex.io/package/6112490">Click this to download for FREE!</a></h1>
 <h1 align="center"><a href="https://www.youtube.com/">Youtube Preview! [SOON]</a></h1>
 
 ---------------------------
