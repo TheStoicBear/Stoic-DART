@@ -1,3 +1,16 @@
+QBCore.Functions.CreateUseableItem('dart_item', function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+    TriggerClientEvent('dart:useDart', source)
+end)
+
+QBCore.Functions.CreateUseableItem('angle_grinder_item', function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+    TriggerClientEvent('dart:useAngleGrinder', source)
+end)
+
+
 RegisterServerEvent('dart:firedart')
 AddEventHandler('dart:firedart', function(vehicleId)
     local source = source
