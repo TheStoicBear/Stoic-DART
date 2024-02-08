@@ -9,5 +9,10 @@ shared_scripts {
     'config.lua'
 }
 
+dependencies {
+    'oxlib',
+    'qb-inventory'
+}
+
 client_script 'source/client.lua'
 server_script 'source/server.lua'
