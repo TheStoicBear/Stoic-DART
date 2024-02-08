@@ -438,6 +438,17 @@ function GetVehicleInFrontOfEntity(entity)
     end
 end
 
+RegisterNetEvent('dart:useDart')
+AddEventHandler('dart:useDart', function()
+    FireDart()
+end)
+
+RegisterNetEvent('dart:useAngleGrinder')
+AddEventHandler('dart:useAngleGrinder', function()
+    PlayerRemoveDart()
+end)
+
+
 -- Export functions
 exports('FireDart', FireDart)
 exports('TrackDart', TrackDart)
