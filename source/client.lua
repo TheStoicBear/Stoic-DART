@@ -237,8 +237,6 @@ function FireDart()
     end
 end
 
-
-
 -- Toggle DART system
 function TrackDart()
     dartSetup = not dartSetup
@@ -422,12 +420,6 @@ AddEventHandler('dart:updateBlips', function(propNetId, addBlip)
         end
     end
 end)
-
-
-
-
-
-
 
 -- Detect the vehicle in front of an entity
 function GetVehicleInFrontOfEntity(entity)
