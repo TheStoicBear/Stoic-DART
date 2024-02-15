@@ -10,7 +10,7 @@ shared_scripts {
 }
 
 dependencies {
-    'oxlib',
+    'ox_lib',
     'ox_inventory'
 }
 
