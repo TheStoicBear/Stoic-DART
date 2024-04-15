@@ -32,7 +32,7 @@ Then install images to ox_inventory/web/images
         consume = 1,    -- Consumes 1 dart_device per use
         description = 'DART_Device',
         client = {
-            export = 'Stoic-Dart.FireDart'  -- Calls the 'FireDart' export from client.lua
+            export = 'Stoic-DART.FireDart'  -- Calls the 'FireDart' export from client.lua
         }
     },
     ['angle_grinder'] = {
@@ -44,7 +44,7 @@ Then install images to ox_inventory/web/images
         description = 'Used to saw off all sorts of stuff including a GPS tracker!',
         client = {
             usetime = 900,
-            export = 'Stoic-Dart.PlayerRemoveDart'  -- Calls the 'FireDart' export from client.lua
+            export = 'Stoic-DART.PlayerRemoveDart'  -- Calls the 'FireDart' export from client.lua
             
         }
     }
