@@ -1,6 +1,4 @@
 
-# For Andy from NDFrammework
-# I did not make, I do not claim rights and it's Open Source.
 
 # Stoic-DART
 A Direct Automotive  Transmitter &amp; Receiver 
